@@ -1,45 +1,5 @@
 company,howa,hia
-JavaScript         1099966
-CSS                 807826
-HTML                777433
-Shell               640886
-Python              550905
-Ruby                374276
-Java                369673
-PHP                 339426
-C                   293231
-C++                 277871
-Makefile            251366
-C#                  133110
-Batchfile            97868
-Go                   91867
-CMake                56754
-TypeScript           48027
-Assembly             47681
-Swift                42605
-Lua                  34431
-Haskell              30061
-R                    29356
-Dockerfile           27176
-Clojure              25896
-Matlab               17524
-QMake                17506
-JupyterNotebook      17332
-Rust                 15907
-SCSS                  9538
-Vimscript             9233
-Vue                   8671
-Nginx                 8516
-Kotlin                7977
-Julia                 5897
-Dart                  5791
-CommonLisp            5682
-Cuda                  4402
-XML                   2697
-SQL                    641
-ASP.NET                585
-Solidity                88
-Svelte                  88
-YAML                    13
-JSON                     6
-dtype: int64
+Google,4,2
+Facebook,6,5
+Microsoft,8,2
+Amazon,2,6
